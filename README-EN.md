@@ -1,6 +1,6 @@
 # WebChecker
 ## Description
-Automatically batch check if web pages exist.
+Automatically batch check if web pages online.
 
 ## How to use
 ./WebChecker.sh website.txt
