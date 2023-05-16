@@ -7,7 +7,6 @@ echo " _       __     __    ________              __
                                                           ver1.0"
 
 echo -e "\n-----Start testing----- \n"
-#filename='taipower.txt'
 filename=$1
 n=1
 while read line; do
